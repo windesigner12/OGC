@@ -1,4 +1,5 @@
-# OGC
+# simple-interest-calculator
+
 Final Project: Overview and Grading Criteria
 
 # Simple Interest Calculator
