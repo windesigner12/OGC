@@ -7,7 +7,8 @@ A simple Python script to calculate interest based on user input. Developed as p
 - Accurate interest calculation
 - Easy to use and extend
 - Bug fix typo
-- Bug fix 
+- Bug fix
+- toto
 
 ## Usage
 ```bash
