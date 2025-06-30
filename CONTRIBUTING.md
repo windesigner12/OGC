@@ -1,17 +1,19 @@
+# Contributing Guidelines
 
----
+Thank you for considering contributing to this project!
 
-#### `LICENSE` (Apache 2.0 License)
-Use the official Apache 2.0 template:  
-[Apache License 2.0 Text](https://www.apache.org/licenses/LICENSE-2.0.txt)
+## How to Contribute
 
----
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request with a clear description.
 
-#### `CODE_OF_CONDUCT.md`
-```markdown
-# Contributor Covenant Code of Conduct
+## Code Style
 
-## Our Pledge
-We as members, contributors, and leaders pledge to make participation in our project a harassment-free experience for everyone...
+- Follow PEP8 for Python code.
+- Add comments to explain logic where needed.
 
-[Rest of the Contributor Covenant v2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
+## Reporting Issues
+
+Please use the issue tracker to report bugs or suggest features.
